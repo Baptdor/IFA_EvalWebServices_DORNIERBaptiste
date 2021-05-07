@@ -1,0 +1,100 @@
+html {
+    width: 90%;
+    background-color: #252525;
+    color: #DADADA;
+    font-family: Calibri, Arial, Helvetica, 'Trebuchet MS', sans-serif;
+    margin: auto;
+    padding: 20px 0 20px 0;
+}
+
+hr {
+    border: 1px solid #AAAAFF;
+}
+
+a {
+    color: #AAAAFF;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #5050FF;
+}
+
+.title {
+    color: #AAAAFF;
+    font-weight: bold;
+}
+
+table.menu {
+    /*width: 100%;*/
+    text-align: center;
+}
+
+table.menu tr td {
+    padding: 10px;
+}
+
+table.list {
+    width: 100%;
+    margin: 15px 0 15px 0;
+    padding: 10px;
+    border-collapse: collapse;
+}
+
+table.list, table.list td, table.list th, table.form, table.form td, table.form th {
+    border: 2px solid #AAAAFF;
+    padding: 10px;
+}
+
+table.form {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table.search {
+    margin: 20px 0 20px 0;
+}
+
+table.article {
+    width: 100%;
+    margin: 30px auto 30px auto;
+    border: 2px solid #AAAAFF;
+    padding: 10px;
+}
+
+table.article h3, table.article h5 {
+    margin: 0;
+}
+
+div.content {
+    margin: 30px;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.center {
+    text-align: center;
+}
+
+.copy {
+    width: 100%;
+    text-align: center;
+    color: #AAAAFF;
+    font-weight: bold;
+}
+
+.description {
+    width: 100%;
+    height: 200px;
+    resize: none;
+}
+
+.submit {
+    text-align: center;
+}
+
+.btnSubmit {
+    cursor: pointer;
+}
